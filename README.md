@@ -12,4 +12,5 @@ format as output.
 
 Use it like this:
 
-    ./sportsconnect2gamechanger.py < ~/Downloads/2025___Intermediate__50_70__Game_Schedule.csv >5070.csv
+    ./sportsconnect2gamechanger.py < ~/Downloads/sc-2025_softball-under14.csv >gc-sb-u14.csv
+    ./sportsconnect2gamechanger.py < ~/Downloads/sc-2025_baseball-50-70.csv >gc-bb-5070.csv
