@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+##
+# 
+# Brought to you by https://github.com/oshaughnessy/sc2gc
+# 
+##
+
 import csv
 import datetime
 import sys

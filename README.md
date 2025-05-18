@@ -14,3 +14,6 @@ Use it like this:
 
     ./sportsconnect2gamechanger.py < ~/Downloads/sc-2025_softball-under14.csv >gc-sb-u14.csv
     ./sportsconnect2gamechanger.py < ~/Downloads/sc-2025_baseball-50-70.csv >gc-bb-5070.csv
+
+
+_(From https://github.com/oshaughnessy/sc2gc)_
